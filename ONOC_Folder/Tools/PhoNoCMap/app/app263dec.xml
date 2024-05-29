@@ -1,0 +1,18 @@
+<application numCores="14">
+	<cg>
+		<edge srcCoreID="0" dstCoreID="1" bandwidth="0.25"/>
+		<edge srcCoreID="0" dstCoreID="3" bandwidth="0.187"/>
+		<edge srcCoreID="0" dstCoreID="7" bandwidth="0.025"/>
+		<edge srcCoreID="0" dstCoreID="9" bandwidth="0.025"/>
+		<edge srcCoreID="1" dstCoreID="2" bandwidth="3.672"/>
+		<edge srcCoreID="2" dstCoreID="4" bandwidth="3.672"/>
+		<edge srcCoreID="3" dstCoreID="4" bandwidth="0.1"/>
+		<edge srcCoreID="4" dstCoreID="6" bandwidth="0.38"/>
+		<edge srcCoreID="5" dstCoreID="6" bandwidth="3.672"/>
+		<edge srcCoreID="7" dstCoreID="8" bandwidth="0.5"/>
+		<edge srcCoreID="9" dstCoreID="10" bandwidth="2.083"/>
+		<edge srcCoreID="10" dstCoreID="13" bandwidth="0.01"/>
+		<edge srcCoreID="11" dstCoreID="12" bandwidth="4.06"/>
+		<edge srcCoreID="12" dstCoreID="13" bandwidth="0.5"/>
+	</cg>
+</application>
